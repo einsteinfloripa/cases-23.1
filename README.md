@@ -11,3 +11,4 @@ Instruções:
 - É expressamente proibido que você use algum tipo de ferramenta de criação de sites como Google Sites, WordPress, Wix, etc. Você deve estruturar a página web.
 - Crie um README de como executar o código
 - Para entregar faça uma PR nessa branch
+- É recomendável fazer deploy, porém não essencial

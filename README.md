@@ -6,4 +6,4 @@ Sua tarefa é entregar um notebook (Google Colab) com as análises, visualizaç�
 
 Instruções:
 - Utilize o [dataset](./dados-economia-brasil.csv) disponibilizado nesse repositório;
-- Você deve entregar seu case em uma PR nessa branch contendo um arquivo de formato “.ipynb”;
+- Você deve entregar seu case em uma PR nessa branch contendo um arquivo de formato “.ipynb”; (qualquer dificuldade entre em contato)

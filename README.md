@@ -9,5 +9,5 @@ O Einstein Floripa, como toda organização moderna, possui um sistema interno p
 
 Instruções:
 - É recomendável fazer deploy, porém não essencial;
-- Crie um README de como executar o código;
+- Crie um README de como executar o código/endpoints da sua API;
 - Para entregar faça uma PR nessa branch; (qualquer dificuldade entre em contato)
